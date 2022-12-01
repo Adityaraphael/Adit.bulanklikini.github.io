@@ -1,0 +1,15 @@
+body{
+    background-color:
+     bisque;
+     display: grid;
+     height: auto;
+     place-items: center;
+}
+
+.text1{
+    text-align:center ;
+
+}
+img{
+    height: 700px;
+}

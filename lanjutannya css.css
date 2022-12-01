@@ -1,0 +1,184 @@
+body{
+    background-color: bisque;
+    display:grid ;
+    height: auto;
+  
+   
+   
+    
+    
+}
+
+.foto_container{
+    text-align: center;
+    grid-area: 
+    "sidebar content"
+    "sidebar content"
+
+}
+
+.foto1{
+    place-items: center;
+    text-align: center; 
+   background:rgb(78, 107, 68) 55px;
+   box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+   height: 800px;
+   width: 600px;
+   margin-left: 425px;
+   margin-bottom: 100px;
+}
+
+img{
+    height: 500px;
+    margin-top: 60px;
+}
+.h4{
+    text-align: justify;
+}
+.foto2{
+    text-align: center; 
+    background:rgb(99, 130, 135);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto3{
+    text-align: center; 
+    background:rgb(100, 102, 104);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 1100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+.foto4{
+    text-align: center; 
+    background:rgb(11, 79, 116);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 800px;
+    margin-left: 325px;
+    margin-bottom: 100px;
+}
+.foto5{
+    text-align: center; 
+    background:rgb(167, 219, 188);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto6{
+    text-align: center; 
+    background:rgb(78, 107, 68);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto7{
+    text-align: center; 
+    background:rgb(223, 135, 135);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto8{
+    text-align: center; 
+    background:rgb(186, 194, 98);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto9{
+    text-align: center; 
+    background:rgb(208, 159, 53);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto10{
+    text-align: center; 
+    background:rgb(155, 95, 79);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto11{
+    text-align: center; 
+    background:rgb(170, 198, 160);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.foto12{
+    text-align: center; 
+    background:rgb(225, 179, 110);
+    box-shadow: 0 3px 6px rgba(133, 107, 107, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    height: 800px;
+    width: 600px;
+    margin-left: 425px;
+    margin-bottom: 100px;
+}
+.kata1{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata2{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata3{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata4{ text-align: justify; margin-left: 10px;
+    margin-right: 10px;
+}
+.kata5{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata6{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata7{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata8{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata9{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata10{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata11{text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kata12{ text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a {text-align: left;}
